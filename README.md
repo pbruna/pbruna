@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Patricio 👋
 
-<!--
-**pbruna/pbruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** with 10+ years building and securing infrastructure for email systems, web applications, and cloud environments.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help companies automate their infrastructure, implement security monitoring, and build reliable CI/CD pipelines. Specialized in mail infrastructure (Zimbra, Postfix) and security tooling (Wazuh, hardening).
+
+## Tech Stack
+
+**Infrastructure as Code:** Terraform • Ansible  
+**Containers:** Docker • Docker Compose  
+**Cloud:** GCP • Azure • DigitalOcean  
+**Security:** Wazuh • Linux Hardening • SELinux/AppArmor  
+**CI/CD:** GitHub Actions  
+**Languages:** Ruby • Python • Bash  
+
+## Featured Projects
+
+- 🔧 **[ansible-zimbradev](https://github.com/pbruna/ansible-zimbradev)** — Ansible role for Zimbra server deployment and configuration
+- 🛡️ *More DevSecOps projects coming soon...*
+
+## Currently working on
+
+Building a comprehensive DevSecOps portfolio with security monitoring, compliance automation, and infrastructure testing.
+
+---
+
+📫 **Open to freelance opportunities** — DevOps, Cloud Infrastructure, Security Monitoring
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR-LINKEDIN)
