@@ -28,4 +28,3 @@ Building a comprehensive DevSecOps portfolio with security monitoring, complianc
 
 📫 **Open to freelance opportunities** — DevOps, Cloud Infrastructure, Security Monitoring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR-LINKEDIN)
